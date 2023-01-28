@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e055d1f0-ab0d-49b8-a233-1b846b70d3d6/AppServices/subscriptions/e055d1f0-ab0d-49b8-a233-1b846b70d3d6/resourceGroups/apitrail/providers/Microsoft.Web/sites/Abu-webapplication",
+    "appService.deploySubpath": "."
+}
